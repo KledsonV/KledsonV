@@ -1,16 +1,31 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<!--
-**KledsonV/KledsonV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  -     👋 Olá, me chamo Kledson Vinicius ! 
 
-Here are some ideas to get you started:
+-     🌱 Atualmente estou aprendendo:
+     <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='50' weight='50'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='50' weight='50'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='50' weight='50'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width='50' weight='50'/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    </div>
+
+
+-     📞 Contato:
+    <div>
+      <a href="https://www.instagram.com/kekelll._/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/kledson-vinicius-009b66228/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    </div>
+
+
+-     📊 Estatisticas: 
+    <div>
+    <a href="https://github.com/KledsonV">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KledsonV&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KledsonV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </div>
+  
+  
+  <img src="https://media.tenor.com/gQf-Nf3he8cAAAAd/cat-typing.gif" width="240" height="240" />
+  
+  ![Snake animation](https://github.com/KledsonV/KledsonV/blob/output/github-contribution-grid-snake.svg)
