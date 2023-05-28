@@ -21,8 +21,8 @@
 -     📊 Estatisticas: 
     <div>
     <a href="https://github.com/KledsonV">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KledsonV&exclude_repo=github-readme-stats,anuraghazra.github.io&hide=Handlebars,css"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KledsonV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KledsonV&exclude_repo=github-readme-stats,anuraghazra.github.io&hide=Handlebars,css&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KledsonV&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     </div>
   
   
