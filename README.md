@@ -21,7 +21,7 @@
 -     📊 Statistics: 
     <div>
     <a href="https://github.com/KledsonV">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KledsonV&hide=css,html"/>
+    <img height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KledsonV&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
     </div>
   
