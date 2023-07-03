@@ -21,7 +21,7 @@
 -     📊 Statistics: 
     <div>
     <a href="https://github.com/KledsonV">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KledsonV&layout=compact&hide=css,handlebars"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KledsonV&layout=compact&theme=transparent&hide=css,handlebars"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KledsonV&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
     </div>
   <img src="https://media.tenor.com/gQf-Nf3he8cAAAAd/cat-typing.gif" width="240" height="240" />
